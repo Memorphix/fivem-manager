@@ -6,7 +6,7 @@ Clone the script and remember the path (``pwd``) where you clone it. You need to
 
 ### To clone the repository:
 ```bash
-git clone https://github.com/Memorphix/fivem-manager.git
+git clone https://github.com/Memorphix/fivem-manager.git .
 ```
 
 ## Adding an alias
